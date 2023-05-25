@@ -1,3 +1,0 @@
-A base de dados é uma base de microdados do ENEM em relação a dados do ENEM por escolas (públicas e privadas) no Brasil. Em relação à isso, faz-se a seguinte pergunta temática:
-
-A partir de uma série de features (Localidade, Taxa de abandono, Porte da escola , Média das notas em matemática, Tipo da dependência administrativa, Número de participantes do enem que cumprem os requisitos de participação e INSE), qual é o perfil médio de uma escola que performa mal, isto é, de forma insatisfatória em Matemática no ENEM (Média inferior à 500)?
